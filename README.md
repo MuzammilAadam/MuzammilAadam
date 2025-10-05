@@ -14,7 +14,7 @@ I love transforming ideas into functional, efficient, and visually engaging digi
 
 - 🔭 Currently working on: **Interactive web apps & Java-based backend projects**  
 - 🌱 Exploring: **Spring Boot, Hibernate, and advanced system design concepts**  
-- 🧠 Learning curve: **MERN stack + AI integration for modern web systems**  
+- 🧠 Learning curve: **JFSD stack + AI integration for modern web systems**  
 - 📫 Reach me at: [aadammuzammil0@gmail.com](mailto:aadammuzammil0@gmail.com)  
 - ⚡ Fun fact: I blend **creativity with clean architecture**  
 
